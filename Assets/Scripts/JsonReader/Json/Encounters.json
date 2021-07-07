@@ -1,5 +1,5 @@
 {
-  "Arctic Levels 1-4": [
+  "arcticLow": [
     "1 Young Remorhaz",
     "1 Winter Wolf leading 1d3+1 Wolves",
     "2d4 Tribal Warriors lead by 1d3 Berserkers",
@@ -21,7 +21,7 @@
     "1 White Dragon Wyrmling"
   ],
 
-  "Arctic Levels 5-10": [
+  "arcticMid": [
     "1 Young White Dragon",
     "1 Air Elemental and 2d4 Ice Mephits",
     "1 Abominable Yeti",
@@ -43,7 +43,7 @@
     "1 Remorhaz"
   ],
 
-  "Arctic Levels 11+": [
+  "arcticHigh": [
     "1 Ancient White Dragon",
     "1d2 Djinni",
     "1 Adult White Dragon",
