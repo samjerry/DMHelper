@@ -1,5 +1,5 @@
-{
-  "arcticLow": [
+{ 
+  "arcticLow": [ //Party of 4 level 4 players
     "(VE)Commoner",
     "(VE)Owl",
     "(VE)Tribal Warrior",
@@ -43,38 +43,26 @@
     "(VH)Warlock of the Great Old One"
   ],
 
-  "arcticMid": [
-    "2 saber-toothed tigers",
-    "1d4 half-ogres",
-    "1d3 + 1 brown bears",
-    "1d3 polar bears",
-    "2d4 berserkers",
-    "A half-orc druid tending to an injured polar bear. If the characters assist the druid, she gives them a vial of antitoxin.",
-    "2d8 scouts",
-    "2d4 ice mephits",
-    "2d6 + 1 zombies aboard a galleon trapped in the ice. Searching the ship yields 2d20 days of rations.",
-    "1 manticore",
-    "2d6 + 3 orcs",
-    "1d6 + 2 ogres",
-    "2d4 griffons",
-    "1d4 veterans",
-    "1 bandit captain with 1 druid, 1d3 berserkers, and 2d10 + 5 bandits",
-    "1d4 hours of extreme cold (see chapter 5 of the Dungeon Master's Guide)",
-    "1 young remorhaz",
-    "1 orc Eye of Gruumsh with 1d6 orogs and 2d8 + 6 orcs",
-    "1 revenant",
-    "A howl that echoes over the land for 1d3 minutes",
-    "1d3 mammoths",
-    "1 young white dragon",
-    "2d4 winter wolves",
-    "1d6 + 2 yetis",
-    "1d2 frost giants",
-    "1d3 werebears",
-    "1d4 trolls",
-    "1 abominable yeti",
-    "1 remorhaz",
-    "1 roc",
-    "2d4 young remorhazes"
+  "arcticMid": [ //Party of 4 level 10 players
+    "(VE)Mammoth",
+    "(VE)Young White Dragon",
+    "(VE)Warlock of the Great Old One",
+    "(E)Bheur Hag",
+    "(E)The Lost",
+    "(E)Warlock of the Fiend",
+    "(E)Frost Giant",
+    "(E)Shoosuva",
+    "(M)Flind",
+    "(M)Frost Salamander",
+    "(M)Abominable Yeti",
+    "(M)Winter Eladrin",
+    "(M)Roc",
+    "(M)Remorhaz",
+    "(H)Boneclaw",
+    "(H)Frost Giant Everlasting One",
+    "(H)Adult White Dragon",
+    "(H)Dire Troll",
+    "(VH)Storm Giant Quintessent"
   ],
 
   "arcticHigh": [
@@ -116,7 +104,7 @@
     "1 ancient white dragon with 1d3 young white dragons"
   ],
 
-  "coastalLow": [
+  "coastalLow": [ //Party of 4 level 4 players
     "1 pseudodragon",
     "2d8 crabs",
     "2d6 fishers (commoners)",
@@ -241,7 +229,7 @@
     "1d3 + 1 storm giants"
   ],
 
-  "desertLow": [
+  "desertLow": [ //Party of 4 level 4 players
     "3d8 scorpions",
     "2d4 vultures",
     "1 abandoned mule",
