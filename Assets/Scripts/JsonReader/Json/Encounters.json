@@ -43,10 +43,15 @@
     "(VH)Warlock of the Great Old One"
   ],
 
-  "arcticMid": [ //Party of 4 level 10 players
-    "(VE)Mammoth",
-    "(VE)Young White Dragon",
-    "(VE)Warlock of the Great Old One",
+  "arcticMid": [ //Party of 4 level 9 players
+    "(VE)Werebear",
+    "(VE)Revenant",
+    "(VE)Young Remorhaz",
+    "(VE)Troll",
+    "(VE)Troll (Variant)",
+    "(E)Mammoth",
+    "(E)Young White Dragon",
+    "(E)Warlock of the Great Old One",
     "(E)Bheur Hag",
     "(E)The Lost",
     "(E)Warlock of the Fiend",
@@ -56,52 +61,27 @@
     "(M)Frost Salamander",
     "(M)Abominable Yeti",
     "(M)Winter Eladrin",
-    "(M)Roc",
-    "(M)Remorhaz",
+    "(H)Roc",
+    "(H)Remorhaz",
     "(H)Boneclaw",
     "(H)Frost Giant Everlasting One",
-    "(H)Adult White Dragon",
-    "(H)Dire Troll",
-    "(VH)Storm Giant Quintessent"
+    "(VH)Adult White Dragon",
+    "(VH)Dire Troll"
   ],
 
   "arcticHigh": [
-    "1 abominable yeti",
-    "1d6 revenants",
-    "1d4 + 1 werebears",
-    "1d3 young white dragons",
-    "A blizzard that reduces visibility to 5 feet for 1d6 hours",
-    "1 roc",
-    "A herd of 3d20 + 60 caribou (deer) moving through the snow",
-    "1d4 mammoths",
-    "1d8 + 1 trolls",
-    "A mile-wide frozen lake in which preserved corpses of strange creatures can be seen",
-    "2d4 young remorhazes",
-    "A crumbling ice castle littered with the frozen bodies of blue-skinned humanoids",
-    "1 adult white dragon",
-    "1d8 + 1 frost giants",
-    "1d4 young remorhazes",
-    "1 ancient white dragon"
+    "(M)Adult White Dragon",
+    "(M)Dire Troll",
+    "(M)Storm Giant Quintessent",
+    "(VH)Ancient White Dragon",
+    "(VH)Nightwalker"
   ],
 
   "arcticTop": [
-    "2d10 revenants",
-    "2d8 trolls",
-    "2d10 werebears",
-    "1 frost giant",
-    "2d4 young remorhazes",
-    "1d4 frost giants",
-    "A Circular patch of black ice on the ground. The air temperature around the patch is warmer than in the surrounding area, and characters who inspect the ice find bits of machinery frozen within.",
-    "1 ancient white dragon",
-    "An adventurer frozen 6 feet under the ice; 50% chance the corpse has a rare magic item of the DM's choice",
-    "1d3 abominable yetis",
-    "1d4 remorhazes",
-    "A 500-foot-high wall of ice that is 300 feet thick and spread across 1d4 miles",
-    "1d4 rocs",
-    "1d10 frost giants with 2d4 polar bears",
-    "1d3 adult white dragons",
-    "2d4 abominable yetis",
-    "1 ancient white dragon with 1d3 young white dragons"
+    "(E)Storm Giant Quintessent",
+    "(M)Ancient White Dragon",
+    "(M)Nightwalker",
+    "(VH)Elder Tempest"
   ],
 
   "coastalLow": [ //Party of 4 level 4 players
