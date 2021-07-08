@@ -202,5 +202,29 @@
     "(M)",
     "(H)",
     "(VH)"
+  ],
+
+  "desertMid": [ //Party of 4 level 9 players
+    "(VE)",
+    "(E)",
+    "(M)",
+    "(H)",
+    "(VH)"
+  ],
+
+  "desertHigh": [ //Party of 4 level 14 players
+    "(VE)",
+    "(E)",
+    "(M)",
+    "(H)",
+    "(VH)"
+  ],
+
+   "desertTop": [ //Party of 4 level 19 players
+    "(VE)",
+    "(E)",
+    "(M)",
+    "(H)",
+    "(VH)"
   ]
 }
