@@ -69,7 +69,7 @@
     "(VH)Dire Troll"
   ],
 
-  "arcticHigh": [
+  "arcticHigh": [ //Party of 4 level 14 players
     "(M)Adult White Dragon",
     "(M)Dire Troll",
     "(M)Storm Giant Quintessent",
@@ -77,7 +77,7 @@
     "(VH)Nightwalker"
   ],
 
-  "arcticTop": [
+  "arcticTop": [ //Party of 4 level 19 players
     "(E)Storm Giant Quintessent",
     "(M)Ancient White Dragon",
     "(M)Nightwalker",
