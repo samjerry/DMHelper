@@ -7,7 +7,7 @@
     "(H)",
     "(VH)",
     "(VH)"
-  ]
+  ],
 
   "arcticLow": [ //Party of 4 level 4 players
     "(VE)Commoner",
@@ -405,5 +405,41 @@
     "(H)Nightwalker",
     "(H)Zaratan",
     "(VH)Ancient Blue Dragon"
+  ],
+
+  "forestLow": [
+    "(VE)",
+    "(E)",
+    "(M)",
+    "(H)",
+    "(VH)",
+    "(VH)"
+  ],
+
+  "forestMid": [
+    "(VE)",
+    "(E)",
+    "(M)",
+    "(H)",
+    "(VH)",
+    "(VH)"
+  ],
+
+  "forestHigh": [
+    "(VE)",
+    "(E)",
+    "(M)",
+    "(H)",
+    "(VH)",
+    "(VH)"
+  ],
+
+  "forestTop": [
+    "(VE)",
+    "(E)",
+    "(M)",
+    "(H)",
+    "(VH)",
+    "(VH)"
   ]
 }
