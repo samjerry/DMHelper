@@ -1,4 +1,14 @@
-{ 
+{
+  //template array
+  "areaLevel": [
+    "(VE)",
+    "(E)",
+    "(M)",
+    "(H)",
+    "(VH)",
+    "(VH)"
+  ]
+
   "arcticLow": [ //Party of 4 level 4 players
     "(VE)Commoner",
     "(VE)Owl",
